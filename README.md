@@ -3,17 +3,23 @@
 
 I'm a Computer Science student at the **French University in Armenia (UFAR)**, currently pursuing my degree with an expected graduation in 2028.
 
-I'm interested in software engineering, algorithms, database systems, and machine learning. I enjoy building applications that combine programming fundamentals with practical problem-solving.
+I'm interested in **Software Engineering, DevOps, Cloud Computing, and Machine Learning**. I enjoy building practical applications, solving algorithmic problems, and exploring software development, automation, and infrastructure technologies.
 
 ## 🛠 Technical Skills
 
 **Programming:** Python, C, C#, SAP ABAP, SQL
 
-**Tools & Platforms:** Git, GitHub Actions, Linux, Bash, PostgreSQL
+**DevOps & Automation:** Docker, Git, GitHub Actions, Bash, Shell Scripting (sh)
+
+**Cloud & Systems:** Cloud Computing Fundamentals, Linux, Command-Line Tools
+
+**Networking:** TCP/IP, IP Addressing, Subnetting, Network Fundamentals
+
+**Databases:** PostgreSQL, Open SQL, Database Design
 
 **Data & Machine Learning:** pandas, NumPy, Matplotlib, scikit-learn, Jupyter Notebook
 
-**Computer Science:** Data Structures, Algorithms, Object-Oriented Programming, Database Design
+**Computer Science:** Data Structures, Algorithms, Object-Oriented Programming (OOP), Problem Solving
 
 ## 🚀 Projects
 
@@ -49,9 +55,9 @@ A collaborative university project developed with two teammates, featuring sched
 ## 🎓 Education & Achievements
 
 - **Computer Science**, French University in Armenia — Expected 2028
+- **SoftConstruct AI Hackathon (November 2026)** — 2nd Place, TruthEngine Edu
 - **EPAM SAP ABAP Development Training** — Ranked 7th among 70 participants
 - **Armenian Educational Foundation** — Scholarship Recipient
-- **SoftConstruct AI Hackathon (November 2026)** — **2nd Place**, team project: TruthEngine Edu
 
 ## 📫 Connect
 
