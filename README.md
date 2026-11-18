@@ -1,3 +1,4 @@
+
 # Hi, I'm Seryozha 👋
 
 I'm a Computer Science student at the **French University in Armenia (UFAR)**, currently pursuing my degree with an expected graduation in 2028.
@@ -15,6 +16,14 @@ I'm interested in software engineering, algorithms, database systems, and machin
 **Computer Science:** Data Structures, Algorithms, Object-Oriented Programming, Database Design
 
 ## 🚀 Projects
+
+### TruthEngine Edu — AI Hackathon Project
+**AI · Fact-Checking · Team Collaboration**
+
+An AI-focused tool designed to evaluate the factual accuracy of AI-generated information and help users distinguish reliable claims from potentially incorrect content.
+
+- Developed collaboratively during the **SoftConstruct AI Hackathon (November 2026)**
+- Our team achieved **2nd place** in the competition
 
 ### Parking Reservation Management System
 **SAP ABAP · Open SQL · ALV**
@@ -42,6 +51,7 @@ A collaborative university project developed with two teammates, featuring sched
 - **Computer Science**, French University in Armenia — Expected 2028
 - **EPAM SAP ABAP Development Training** — Ranked 7th among 70 participants
 - **Armenian Educational Foundation** — Scholarship Recipient
+- **SoftConstruct AI Hackathon (November 2026)** — **2nd Place**, team project: TruthEngine Edu
 
 ## 📫 Connect
 
